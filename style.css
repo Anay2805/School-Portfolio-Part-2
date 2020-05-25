@@ -1,0 +1,14 @@
+h2 {
+    color:blue;
+} 
+h1{
+    color: #8a11a8;
+}
+*{
+    border: solid;
+}
+
+.Amity{
+    display: flex;
+    justify-content: center;
+}
